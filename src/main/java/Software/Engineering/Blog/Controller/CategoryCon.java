@@ -1,7 +1,8 @@
 package Software.Engineering.Blog.Controller;
 
 import Software.Engineering.Blog.DTO.CategoryDTO;
-import Software.Engineering.Blog.Model.Category;
+
+import Software.Engineering.Blog.Entity.Category;
 import Software.Engineering.Blog.Service.CategoryServiceImpl;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

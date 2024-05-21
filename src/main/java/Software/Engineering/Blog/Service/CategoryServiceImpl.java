@@ -1,7 +1,7 @@
 package Software.Engineering.Blog.Service;
 
 import Software.Engineering.Blog.DTO.CategoryDTO;
-import Software.Engineering.Blog.Model.Category;
+import Software.Engineering.Blog.Entity.Category;
 import Software.Engineering.Blog.Repository.CategoryRepo;
 import jakarta.persistence.EntityNotFoundException;
 import org.modelmapper.ModelMapper;

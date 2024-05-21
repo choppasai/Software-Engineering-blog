@@ -1,14 +1,10 @@
-package Software.Engineering.Blog.Model;
+package Software.Engineering.Blog.Entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import lombok.Data;
-import lombok.Getter;
-import lombok.Setter;
-
-import java.util.UUID;
 
 @Entity
 @Data
